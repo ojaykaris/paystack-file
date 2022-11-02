@@ -1,0 +1,60 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(1, 1, 15);
+}
+.box {
+  background-color: white;
+  height: 250px;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+form {
+  margin-top: 10px;
+  margin-left: 25px;
+
+  margin-bottom: 10px;
+}
+h4 {
+  margin-left: 160px;
+  padding-top: 20px;
+  color: rgb(155, 134, 134);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+#got {
+  padding: 15px;
+  width: 350px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+#butt {
+  padding: 18px;
+  background-color: rgb(82, 226, 82);
+  width: 350px;
+  border: none;
+  color: white;
+}
+.vent {
+  color: rgb(187, 175, 175);
+  margin-left: 600px;
+  margin-top: 20px;
+}
+strong {
+  color: rgb(187, 175, 175);
+  margin-left: 600px;
+}
+img {
+  margin-left: 600px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.dow {
+  margin-left: 10px;
+}
